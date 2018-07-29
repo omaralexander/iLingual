@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>319877411196-191h5d900ooja1vekpomme4ff01niqi8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.319877411196-191h5d900ooja1vekpomme4ff01niqi8</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBJ-H1AvhVSSrXuYOYkRnbCZwKRFJb6Mk0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>319877411196</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Ai-Lingual-Team.Ai-Lingual</string>
+	<key>PROJECT_ID</key>
+	<string>ai-lingual</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ai-lingual.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:319877411196:ios:4e5672b5d510ea13</string>
+	<key>DATABASE_URL</key>
+	<string>https://ai-lingual.firebaseio.com</string>
+</dict>
+</plist>
